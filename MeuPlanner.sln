@@ -11,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_DataBase", "3_DataBase", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlannerDataBase", "PlannerDataBase\PlannerDataBase.csproj", "{4FAE0776-38A1-4DFC-8226-C15BC48ED122}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlannerInterface", "PlannerInterface\PlannerInterface.csproj", "{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,12 +23,17 @@ Global
 		{4FAE0776-38A1-4DFC-8226-C15BC48ED122}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FAE0776-38A1-4DFC-8226-C15BC48ED122}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FAE0776-38A1-4DFC-8226-C15BC48ED122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4FAE0776-38A1-4DFC-8226-C15BC48ED122} = {A30885E7-0A11-464A-B6A6-4ED1230F3704}
+		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640} = {7D187A55-7B36-4C73-9AA0-725000C76B37}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B3060F19-B53F-4F54-BF52-AC7984E28A92}

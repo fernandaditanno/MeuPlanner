@@ -23,7 +23,7 @@ namespace PlannerDataBase.Authentication
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Tarefa> Tarefas { get; set; }
         public DbSet<Processo> Processos { get; set; }
-        public DbSet<Permissao> Pemissoes { get; set; }
+        public DbSet<Permissao> Permissoes { get; set; }
         public DbSet<Nota> Notas { get; set; }
         public DbSet<Evento> Eventos { get; set; }
         public DbSet<Contato> Contatos { get; set; }
