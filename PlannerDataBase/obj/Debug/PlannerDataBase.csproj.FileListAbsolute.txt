@@ -53,3 +53,6 @@ C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerD.40BCC13D.Up2Date
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase.exe
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase.pdb
+C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.exe.config
+C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.exe
+C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.pdb

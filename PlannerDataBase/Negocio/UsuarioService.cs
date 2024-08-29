@@ -1,4 +1,5 @@
-﻿using PlannerDataBase.Entities;
+﻿using PlannerDataBase.Authentication;
+using PlannerDataBase.Entities;
 using PlannerDataBase.Repositories;
 using PlannerTransmission.DTOs;
 using PlannerTransmission.Interfaces;
@@ -12,7 +13,10 @@ namespace PlannerDataBase.Negocio
 {
     public class UsuarioService : IUsuario
     {
-        public UsuarioRepository repository = new UsuarioRepository();
+        public UsuarioRepository GetRepository()
+        { 
+            return new UsuarioRepository();
+        }
         public UsuarioDto converterModeloEmDto(Usuario entidade)
         {
             return new UsuarioDto
@@ -49,7 +53,7 @@ namespace PlannerDataBase.Negocio
         {
             try
             {
-                return this.converterModeloEmDto(repository.Adicionar(this.converterDtoEmModelo(entidade)));
+                return converterModeloEmDto(GetRepository().Adicionar(converterDtoEmModelo(entidade)));
             }
             catch (Exception e)
             {
@@ -62,7 +66,7 @@ namespace PlannerDataBase.Negocio
         {
             try
             {
-                return this.converterModeloEmDto(repository.Editar(this.converterDtoEmModelo(entidade), Id));
+                return converterModeloEmDto(GetRepository().Editar(converterDtoEmModelo(entidade), Id));
             }
             catch (Exception e)
             {
@@ -75,7 +79,7 @@ namespace PlannerDataBase.Negocio
         {
             try
             {
-                repository.Excluir(Id);
+                GetRepository().Excluir(Id);
             }
             catch (Exception e)
             {
@@ -86,20 +90,22 @@ namespace PlannerDataBase.Negocio
 
         public List<UsuarioDto> Listar()
         {
-            try
+            /**/
+            var lista = new List<UsuarioDto>();
+            var item = GetRepository().Listar();
+            if (item?.Count() > 0)
             {
-                var lista = new List<UsuarioDto>();
-                foreach(var item in repository.Listar())
+                foreach (var objeto in item)
                 {
-                    lista.Add(this.converterModeloEmDto(item));
+                    lista.Add(this.converterModeloEmDto(objeto));
                 }
-                return lista;
             }
-            catch (Exception e)
+            else
             {
-                Console.WriteLine($"Erro {this.GetType().Name}: {e.Message}");
-                throw;
+                return new List<UsuarioDto>();
             }
+            return lista;
+            
         }
     }
 }

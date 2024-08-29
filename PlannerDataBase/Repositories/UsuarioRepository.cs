@@ -3,6 +3,7 @@ using PlannerDataBase.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Contexts;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -17,21 +18,7 @@ namespace PlannerDataBase.Repositories
                 using(var contexto = new BancoDeDadosContext())
                 {
                     contexto.Database.Connection.Open();
-                    var teste = new Usuario()
-                    {
-                        UsuarioCadastro = "SISTEMA",
-                        Id = 2,
-                        DataCadastro = DateTime.Now.Date,
-                        Nome = "TESTE",
-                        Sobrenome = "USUARIO",
-                        Email = "FERNANDADITANNO@GMAIL.COM",
-                        Telefone = "62981381485",
-                        Cpf = "87792933016",
-                        Login = "master",
-                        Senha = "admin@123",
-                    };
-                    //var salvo = contexto.Usuarios.Add(usuario);
-                    var salvo = contexto.Usuarios.Add(teste);
+                    var salvo = contexto.Usuarios.Add(usuario);
                     contexto.SaveChanges();
                     contexto.Database.Connection.Close();
                     return salvo;
@@ -83,21 +70,36 @@ namespace PlannerDataBase.Repositories
         }
         public List<Usuario> Listar() 
         {
-            try
+            using (var context = new BancoDeDadosContext())
             {
-                using (var contexto = new BancoDeDadosContext())
+                context.Database.Connection.Open();
+                if (context.Database.Connection.State == System.Data.ConnectionState.Open)
                 {
-                    contexto.Database.Connection.Open();
-                    var lista = contexto.Usuarios.ToList();
-                    //contexto.SaveChanges();
-                    contexto.Database.Connection.Close();
+                    var lista = context.Usuarios.ToList();
+                    context.Database.Connection.Close();
                     return lista;
                 }
+                else
+                {
+                    return null;
+                }
             }
-            catch (Exception e)
+        }
+        public List<Usuario> Teste()
+        {
+            using (var context = new BancoDeDadosContext())
             {
-                Console.WriteLine("Ocorreu um erro: " + e.Message);
-                return null;
+                context.Database.Connection.Open();
+                if (context.Database.Connection.State == System.Data.ConnectionState.Open)
+                {
+                    var lista = context.Usuarios.ToList();
+                    context.Database.Connection.Close();
+                    return lista;
+                }
+                else
+                {
+                    return null;
+                }
             }
         }
         public Usuario ConsultarPorId(int Id) {

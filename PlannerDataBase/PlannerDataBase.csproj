@@ -21,10 +21,13 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\..\Planner\Backend\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -45,6 +48,7 @@
     <Reference Include="Microsoft.AspNet.Scaffolding.EntityFramework.12.0, Version=17.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.Entity" />
     <Reference Include="System.Data.Entity.Design" />
@@ -74,6 +78,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Authentication\BancoDeDadosContext.cs" />
+    <Compile Include="Authentication\SQLiteDbConfiguration.cs" />
+    <Compile Include="Authentication\SQLiteDbDependencyResolver.cs" />
+    <Compile Include="Authentication\SQLiteProviderInvariantName.cs" />
     <Compile Include="Entities\BaseEntity\EntidadeBase.cs" />
     <Compile Include="Entities\Colaborador.cs" />
     <Compile Include="Entities\Contato.cs" />

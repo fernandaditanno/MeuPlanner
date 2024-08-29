@@ -1,9 +1,7 @@
 ﻿using PlannerDataBase.Authentication;
+using PlannerDataBase.Negocio;
+using PlannerDataBase.Repositories;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PlannerDataBase
 {
@@ -22,12 +20,29 @@ namespace PlannerDataBase
                     context.Database.Connection.Open();
                     if (context.Database.Connection.State == System.Data.ConnectionState.Open)
                     {
+                        //var teste = new Usuario()
+                        //{
+                        //    UsuarioCadastro = "SISTEMA",
+                        //    DataCadastro = DateTime.Now,
+                        //    Nome = "MASTER",
+                        //    Sobrenome = "SISTEMA",
+                        //    Email = "FERNANDADITANNO@GMAIL.COM",
+                        //    Telefone = "62981381485",
+                        //    Cpf = "87792933016",
+                        //    Login = "master",
+                        //    Senha = "admin@123",
+                        //};
+                        //var salvo = context.Usuarios.Add(teste);
+                        //context.SaveChanges();
+                        //Console.WriteLine(salvo.Login);
+                        //var lista = context.Usuarios.ToList();
                         Console.WriteLine("Banco de dados criado com sucesso");
+                        //Console.WriteLine(lista.Count);
                         context.Database.Connection.Close();
                     }
                 }
                 Console.WriteLine("Sistema executando com sucesso");
-                Console.ReadKey();
+                
             }
             catch (Exception e)
             {
@@ -36,8 +51,8 @@ namespace PlannerDataBase
                 Console.WriteLine("Informe ao desenvolvedor do sistema.");
                 throw;
             }
-
-          
+            Console.ReadKey();
+           
         }
     }
 }

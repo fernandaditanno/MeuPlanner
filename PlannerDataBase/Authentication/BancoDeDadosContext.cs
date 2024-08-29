@@ -1,21 +1,36 @@
 ﻿using PlannerDataBase.Entities;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
+using System.Configuration;
+using System.Data.SQLite;
 
 namespace PlannerDataBase.Authentication
 {
+
+    [DbConfigurationType(typeof(SQLiteDbConfiguration))]
     public class BancoDeDadosContext : DbContext
     {
-        public BancoDeDadosContext() : base("SQLiteDB")
+        public BancoDeDadosContext() : base(new SQLiteConnection()
         {
-            Database.SetInitializer(new CreateDatabaseIfNotExists<BancoDeDadosContext>());
+            ConnectionString = new SQLiteConnectionStringBuilder
+            {
+                DataSource = @"C:\worksapace\visual studio\Planner\Backend\meuplanner.sqlite"
+            }.ConnectionString
+        }, true)
+        {
             Database.CreateIfNotExists();
+            var chamada = System.Data.Entity.SqlServer.SqlProviderServices.Instance;
         }
+
+        //public BancoDeDadosContext() : base("SQLiteDB")
+        //{
+        //    Database.CreateIfNotExists();
+        //    var chamada = System.Data.Entity.SqlServer.SqlProviderServices.Instance;
+        //}
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
             this.ConfiguracoesData(modelBuilder);
-
             base.OnModelCreating(modelBuilder);
         }
         private void ConfiguracoesData(DbModelBuilder modelBuilder)
