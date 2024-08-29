@@ -1,11 +1,6 @@
 ﻿using PlannerDataBase.Authentication;
-using System;
-using System.Collections.Generic;
 using System.Data.Entity.Migrations;
 using System.Data.SQLite.EF6.Migrations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PlannerDataBase.Migrations
 {
@@ -13,7 +8,7 @@ namespace PlannerDataBase.Migrations
     {
         public Configuracao()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
             SetSqlGenerator("System.Data.SQLite", new SQLiteMigrationSqlGenerator());
         }
         protected override void Seed(BancoDeDadosContext context)

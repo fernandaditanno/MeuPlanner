@@ -11,7 +11,7 @@ namespace PlannerDataBase.Entities
     public class Tarefa : EntidadeBase
     {
         [DataType(DataType.DateTime)]
-        public DateTime data { get; set; }
+        public DateTime Data { get; set; }
 
         public bool Feito { get; set; }
 

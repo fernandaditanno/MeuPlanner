@@ -23,6 +23,8 @@ namespace PlannerDataBase.Entities
         [StringLength(1000)]
         public string DescricaoEvento { get; set; }
 
+        [ForeignKey("PermissaoVisualizacao")]
+        public int PermissaoVisualizacaoId { get; set; }
         public Permissao PermissaoVisualizacao { get; set; }
     }
 }

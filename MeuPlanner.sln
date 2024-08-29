@@ -10,8 +10,23 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3_DataBase", "3_DataBase", "{A30885E7-0A11-464A-B6A6-4ED1230F3704}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlannerDataBase", "PlannerDataBase\PlannerDataBase.csproj", "{4FAE0776-38A1-4DFC-8226-C15BC48ED122}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F53B85E7-20C8-4120-B042-C84E9AE0170B} = {F53B85E7-20C8-4120-B042-C84E9AE0170B}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlannerInterface", "PlannerInterface\PlannerInterface.csproj", "{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27} = {3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}
+		{F53B85E7-20C8-4120-B042-C84E9AE0170B} = {F53B85E7-20C8-4120-B042-C84E9AE0170B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlannerTransmission", "PlannerTransmission\PlannerTransmission.csproj", "{F53B85E7-20C8-4120-B042-C84E9AE0170B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlannerNegocio", "PlannerNegocio\PlannerNegocio.csproj", "{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4FAE0776-38A1-4DFC-8226-C15BC48ED122} = {4FAE0776-38A1-4DFC-8226-C15BC48ED122}
+		{F53B85E7-20C8-4120-B042-C84E9AE0170B} = {F53B85E7-20C8-4120-B042-C84E9AE0170B}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +42,14 @@ Global
 		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53B85E7-20C8-4120-B042-C84E9AE0170B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53B85E7-20C8-4120-B042-C84E9AE0170B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53B85E7-20C8-4120-B042-C84E9AE0170B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53B85E7-20C8-4120-B042-C84E9AE0170B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,6 +57,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{4FAE0776-38A1-4DFC-8226-C15BC48ED122} = {A30885E7-0A11-464A-B6A6-4ED1230F3704}
 		{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640} = {7D187A55-7B36-4C73-9AA0-725000C76B37}
+		{F53B85E7-20C8-4120-B042-C84E9AE0170B} = {B1735FAD-5B45-4EAB-975C-82ACE8DE4F2D}
+		{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27} = {B1735FAD-5B45-4EAB-975C-82ACE8DE4F2D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B3060F19-B53F-4F54-BF52-AC7984E28A92}

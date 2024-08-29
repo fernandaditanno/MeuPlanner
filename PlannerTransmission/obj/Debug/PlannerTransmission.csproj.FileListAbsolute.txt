@@ -1,0 +1,6 @@
+C:\worksapace\visual studio\MeuPlanner\PlannerTransmission\bin\Debug\PlannerTransmission.dll
+C:\worksapace\visual studio\MeuPlanner\PlannerTransmission\bin\Debug\PlannerTransmission.pdb
+C:\worksapace\visual studio\MeuPlanner\PlannerTransmission\obj\Debug\PlannerTransmission.csproj.AssemblyReference.cache
+C:\worksapace\visual studio\MeuPlanner\PlannerTransmission\obj\Debug\PlannerTransmission.csproj.CoreCompileInputs.cache
+C:\worksapace\visual studio\MeuPlanner\PlannerTransmission\obj\Debug\PlannerTransmission.dll
+C:\worksapace\visual studio\MeuPlanner\PlannerTransmission\obj\Debug\PlannerTransmission.pdb

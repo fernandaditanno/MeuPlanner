@@ -17,7 +17,21 @@ namespace PlannerDataBase.Repositories
                 using(var contexto = new BancoDeDadosContext())
                 {
                     contexto.Database.Connection.Open();
-                    var salvo = contexto.Usuarios.Add(usuario);
+                    var teste = new Usuario()
+                    {
+                        UsuarioCadastro = "SISTEMA",
+                        Id = 2,
+                        DataCadastro = DateTime.Now.Date,
+                        Nome = "TESTE",
+                        Sobrenome = "USUARIO",
+                        Email = "FERNANDADITANNO@GMAIL.COM",
+                        Telefone = "62981381485",
+                        Cpf = "87792933016",
+                        Login = "master",
+                        Senha = "admin@123",
+                    };
+                    //var salvo = contexto.Usuarios.Add(usuario);
+                    var salvo = contexto.Usuarios.Add(teste);
                     contexto.SaveChanges();
                     contexto.Database.Connection.Close();
                     return salvo;
@@ -75,7 +89,7 @@ namespace PlannerDataBase.Repositories
                 {
                     contexto.Database.Connection.Open();
                     var lista = contexto.Usuarios.ToList();
-                    contexto.SaveChanges();
+                    //contexto.SaveChanges();
                     contexto.Database.Connection.Close();
                     return lista;
                 }
