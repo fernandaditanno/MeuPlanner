@@ -36,6 +36,9 @@ C:\worksapace\visual studio\MeuPlanner\PlannerInterface\bin\Debug\PlannerDataBas
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\bin\Debug\EntityFramework.xml
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\bin\Debug\EntityFramework.SqlServer.xml
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\bin\Debug\System.Data.SQLite.xml
+C:\worksapace\visual studio\Planner\Frontend\PlannerInterface.exe.config
+C:\worksapace\visual studio\Planner\Frontend\PlannerInterface.exe
+C:\worksapace\visual studio\Planner\Frontend\PlannerInterface.pdb
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\PlannerInterface.csproj.AssemblyReference.cache
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\Views\HomeView.g.cs
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\Views\UsuarioView.g.cs
@@ -53,6 +56,3 @@ C:\worksapace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\PlannerInterfa
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\PlannerI.AC9C18E7.Up2Date
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\PlannerInterface.exe
 C:\worksapace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\PlannerInterface.pdb
-C:\worksapace\visual studio\Planner\Frontend\PlannerInterface.exe.config
-C:\worksapace\visual studio\Planner\Frontend\PlannerInterface.exe
-C:\worksapace\visual studio\Planner\Frontend\PlannerInterface.pdb

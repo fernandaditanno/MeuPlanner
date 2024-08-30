@@ -2,6 +2,7 @@
 using PlannerDataBase.Entities;
 using System;
 using System.Collections.Generic;
+using Microsoft.Data.SqlClient;
 using System.Linq;
 using System.Runtime.Remoting.Contexts;
 using System.Text;

@@ -44,6 +44,9 @@ C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\bin\Debug\Microsoft.Visua
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.Design.resources.dll
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\bin\Debug\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\bin\Debug\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.exe.config
+C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.exe
+C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.pdb
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase.csproj.AssemblyReference.cache
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase.csproj.SuggestedBindingRedirects.cache
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase.exe.config
@@ -53,6 +56,3 @@ C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerD.40BCC13D.Up2Date
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase.exe
 C:\worksapace\visual studio\MeuPlanner\PlannerDataBase\obj\Debug\PlannerDataBase.pdb
-C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.exe.config
-C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.exe
-C:\worksapace\visual studio\Planner\Backend\PlannerDataBase.pdb

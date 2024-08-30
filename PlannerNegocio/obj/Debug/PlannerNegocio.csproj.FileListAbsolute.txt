@@ -17,11 +17,11 @@ C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\bin\Debug\EntityFramework.
 C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\bin\Debug\EntityFramework.SqlServer.xml
 C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\bin\Debug\System.Data.SQLite.xml
 C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\bin\Debug\Topshelf.xml
+C:\worksapace\visual studio\Planner\Backend\PlannerNegocio.exe.config
+C:\worksapace\visual studio\Planner\Backend\PlannerNegocio.exe
+C:\worksapace\visual studio\Planner\Backend\PlannerNegocio.pdb
 C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\obj\Debug\PlannerNegocio.csproj.AssemblyReference.cache
 C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\obj\Debug\PlannerNegocio.csproj.CoreCompileInputs.cache
 C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\obj\Debug\PlannerN.8C754693.Up2Date
 C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\obj\Debug\PlannerNegocio.exe
 C:\worksapace\visual studio\MeuPlanner\PlannerNegocio\obj\Debug\PlannerNegocio.pdb
-C:\worksapace\visual studio\Planner\Backend\PlannerNegocio.exe.config
-C:\worksapace\visual studio\Planner\Backend\PlannerNegocio.exe
-C:\worksapace\visual studio\Planner\Backend\PlannerNegocio.pdb
