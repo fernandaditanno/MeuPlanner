@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\worksapace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\
+C:\workspace\visual studio\MeuPlanner\PlannerInterface\obj\Debug\
 PlannerInterface
 none
 false
 DEBUG;TRACE
-C:\worksapace\visual studio\MeuPlanner\PlannerInterface\App.xaml
+C:\workspace\visual studio\MeuPlanner\PlannerInterface\App.xaml
 2278070173
 
-11553585199
-241712619886
+12-1528503419
+24185464276
 Views\HomeView.xaml;Views\UsuarioView.xaml;
 
-False
+True
 

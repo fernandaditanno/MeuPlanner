@@ -1,43 +1,111 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\worksapace\\visual studio\\MeuPlanner\\",
+  "WorkspaceRootPath": "C:\\workspace\\visual studio\\MeuPlanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\worksapace\\visual studio\\MeuPlanner\\plannerdatabase\\authentication\\bancodedadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerinterface\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|solutionrelative:plannerinterface\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|c:\\workspace\\visual studio\\meuplanner\\plannerinterface\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|solutionrelative:plannerinterface\\viewmodels\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerinterface\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|solutionrelative:plannerinterface\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerinterface\\views\\usuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|solutionrelative:plannerinterface\\views\\usuarioview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerinterface\\plannerstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|solutionrelative:plannerinterface\\plannerstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerinterface\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|solutionrelative:plannerinterface\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerinterface\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C008DDE2-D1E6-4D8A-B5FE-C3AA30D50640}|PlannerInterface\\PlannerInterface.csproj|solutionrelative:plannerinterface\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\migrations\\configuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\migrations\\configuracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\authentication\\bancodedadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\authentication\\bancodedadoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|c:\\worksapace\\visual studio\\meuplanner\\plannerdatabase\\authentication\\sqlitedbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\authentication\\sqlitedbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\authentication\\sqlitedbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|c:\\worksapace\\visual studio\\meuplanner\\plannerdatabase\\authentication\\sqlitedbdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\authentication\\sqlitedbdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\authentication\\sqlitedbdependencyresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|c:\\worksapace\\visual studio\\meuplanner\\plannerdatabase\\authentication\\sqliteproviderinvariantname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\authentication\\sqliteproviderinvariantname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\authentication\\sqliteproviderinvariantname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\worksapace\\visual studio\\MeuPlanner\\plannerdatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\entities\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\entities\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\entities\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\entities\\baseentity\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\entities\\baseentity\\entidadebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\negocio\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\negocio\\colaboradorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fernanda\\AppData\\Local\\SourceServer\\5d94063053e88de73584ac9bb6a76fbc67c8fe65054cf6f9cf1a4e6d45546d87\\src\\Caliburn.Micro.Platform\\ActionMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|c:\\worksapace\\visual studio\\meuplanner\\plannerdatabase\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}|PlannerNegocio\\PlannerNegocio.csproj|C:\\worksapace\\visual studio\\MeuPlanner\\plannernegocio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}|PlannerNegocio\\PlannerNegocio.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannernegocio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3498F4AF-BADB-4BDB-AEC2-51295EAA6D27}|PlannerNegocio\\PlannerNegocio.csproj|solutionrelative:plannernegocio\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\worksapace\\visual studio\\MeuPlanner\\plannerdatabase\\negocio\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|C:\\workspace\\visual studio\\MeuPlanner\\plannerdatabase\\negocio\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE0776-38A1-4DFC-8226-C15BC48ED122}|PlannerDataBase\\PlannerDataBase.csproj|solutionrelative:plannerdatabase\\negocio\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,93 +116,291 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SQLiteProviderInvariantName.cs",
-              "DocumentMoniker": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteProviderInvariantName.cs",
-              "RelativeDocumentMoniker": "PlannerDataBase\\Authentication\\SQLiteProviderInvariantName.cs",
-              "ToolTip": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteProviderInvariantName.cs",
-              "RelativeToolTip": "PlannerDataBase\\Authentication\\SQLiteProviderInvariantName.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:21:08.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SQLiteDbDependencyResolver.cs",
-              "DocumentMoniker": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteDbDependencyResolver.cs",
-              "RelativeDocumentMoniker": "PlannerDataBase\\Authentication\\SQLiteDbDependencyResolver.cs",
-              "ToolTip": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteDbDependencyResolver.cs",
-              "RelativeToolTip": "PlannerDataBase\\Authentication\\SQLiteDbDependencyResolver.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "PlannerInterface\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "PlannerInterface\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwBIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:19:39.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T01:51:28.258Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SQLiteDbConfiguration.cs",
-              "DocumentMoniker": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteDbConfiguration.cs",
-              "RelativeDocumentMoniker": "PlannerDataBase\\Authentication\\SQLiteDbConfiguration.cs",
-              "ToolTip": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteDbConfiguration.cs",
-              "RelativeToolTip": "PlannerDataBase\\Authentication\\SQLiteDbConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\ViewModels\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "PlannerInterface\\ViewModels\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\ViewModels\\UsuarioViewModel.cs",
+              "RelativeToolTip": "PlannerInterface\\ViewModels\\UsuarioViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:20:49.053Z",
+              "WhenOpened": "2024-09-13T01:51:25.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ActionMessage.cs",
-              "DocumentMoniker": "C:\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs",
-              "ToolTip": "C:\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs [Somente Leitura]",
-              "RelativeToolTip": "..\\..\\..\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs [Somente Leitura]",
-              "ViewState": "AQIAABgAAAAAAAAAAAArwCUAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T20:00:29.283Z",
-              "EditorCaption": " [Somente Leitura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\App.config",
-              "RelativeDocumentMoniker": "PlannerDataBase\\App.config",
-              "ToolTip": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\App.config",
-              "RelativeToolTip": "PlannerDataBase\\App.config",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-08-30T19:57:31.691Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "UsuarioView.xaml",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\Views\\UsuarioView.xaml",
+              "RelativeDocumentMoniker": "PlannerInterface\\Views\\UsuarioView.xaml",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\Views\\UsuarioView.xaml",
+              "RelativeToolTip": "PlannerInterface\\Views\\UsuarioView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T01:51:22.36Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BancoDeDadosContext.cs",
-              "DocumentMoniker": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\BancoDeDadosContext.cs",
-              "RelativeDocumentMoniker": "PlannerDataBase\\Authentication\\BancoDeDadosContext.cs",
-              "ToolTip": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\BancoDeDadosContext.cs",
-              "RelativeToolTip": "PlannerDataBase\\Authentication\\BancoDeDadosContext.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwAIAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T21:23:43.976Z",
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "PlannerInterface\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\Views\\HomeView.xaml",
+              "RelativeToolTip": "PlannerInterface\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T01:08:53.223Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\App.config",
+              "RelativeDocumentMoniker": "PlannerInterface\\App.config",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\App.config",
+              "RelativeToolTip": "PlannerInterface\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-13T01:08:47.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlannerStart.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\PlannerStart.cs",
+              "RelativeDocumentMoniker": "PlannerInterface\\PlannerStart.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\PlannerStart.cs",
+              "RelativeToolTip": "PlannerInterface\\PlannerStart.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:07:52.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\App.xaml",
+              "RelativeDocumentMoniker": "PlannerInterface\\App.xaml",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerInterface\\App.xaml",
+              "RelativeToolTip": "PlannerInterface\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T01:07:10.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BancoDeDadosContext.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\BancoDeDadosContext.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Authentication\\BancoDeDadosContext.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\BancoDeDadosContext.cs*",
+              "RelativeToolTip": "PlannerDataBase\\Authentication\\BancoDeDadosContext.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T21:23:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SQLiteDbConfiguration.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteDbConfiguration.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Authentication\\SQLiteDbConfiguration.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteDbConfiguration.cs",
+              "RelativeToolTip": "PlannerDataBase\\Authentication\\SQLiteDbConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:20:49.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SQLiteDbDependencyResolver.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteDbDependencyResolver.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Authentication\\SQLiteDbDependencyResolver.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteDbDependencyResolver.cs",
+              "RelativeToolTip": "PlannerDataBase\\Authentication\\SQLiteDbDependencyResolver.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:19:39.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Program.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Program.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Program.cs",
+              "RelativeToolTip": "PlannerDataBase\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:28:41.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Configuracao.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Migrations\\Configuracao.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Migrations\\Configuracao.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Migrations\\Configuracao.cs",
+              "RelativeToolTip": "PlannerDataBase\\Migrations\\Configuracao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:19:54.821Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerNegocio\\App.config",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\App.config",
+              "RelativeDocumentMoniker": "PlannerDataBase\\App.config",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\App.config",
+              "RelativeToolTip": "PlannerDataBase\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-30T19:57:31.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SQLiteProviderInvariantName.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteProviderInvariantName.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Authentication\\SQLiteProviderInvariantName.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Authentication\\SQLiteProviderInvariantName.cs",
+              "RelativeToolTip": "PlannerDataBase\\Authentication\\SQLiteProviderInvariantName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T21:21:08.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Evento.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Entities\\Evento.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Evento.cs",
+              "RelativeToolTip": "PlannerDataBase\\Entities\\Evento.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:16:27.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Contato.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Entities\\Contato.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Contato.cs",
+              "RelativeToolTip": "PlannerDataBase\\Entities\\Contato.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:15:56.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Colaborador.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Entities\\Colaborador.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Colaborador.cs",
+              "RelativeToolTip": "PlannerDataBase\\Entities\\Colaborador.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:15:27.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Tarefa.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Entities\\Tarefa.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Tarefa.cs",
+              "RelativeToolTip": "PlannerDataBase\\Entities\\Tarefa.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:14:31.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\Usuario.cs",
+              "RelativeToolTip": "PlannerDataBase\\Entities\\Usuario.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:14:14.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EntidadeBase.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\BaseEntity\\EntidadeBase.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Entities\\BaseEntity\\EntidadeBase.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Entities\\BaseEntity\\EntidadeBase.cs",
+              "RelativeToolTip": "PlannerDataBase\\Entities\\BaseEntity\\EntidadeBase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:09:21.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\packages.config",
+              "RelativeDocumentMoniker": "PlannerDataBase\\packages.config",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\packages.config",
+              "RelativeToolTip": "PlannerDataBase\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-12T16:46:15.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ColaboradorService.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Negocio\\ColaboradorService.cs",
+              "RelativeDocumentMoniker": "PlannerDataBase\\Negocio\\ColaboradorService.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Negocio\\ColaboradorService.cs",
+              "RelativeToolTip": "PlannerDataBase\\Negocio\\ColaboradorService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T22:20:45.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ActionMessage.cs",
+              "DocumentMoniker": "C:\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs",
+              "ToolTip": "C:\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\fernanda\\AppData\\Local\\Temp\\.vsdbgsrc\\b00c4b5130f1a458fc862edfbf7b8e61422d85b65874ac667eb26ac1bad8b917\\ActionMessage.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAArwCUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:00:29.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerNegocio\\App.config",
               "RelativeDocumentMoniker": "PlannerNegocio\\App.config",
-              "ToolTip": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerNegocio\\App.config",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerNegocio\\App.config",
               "RelativeToolTip": "PlannerNegocio\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -142,42 +408,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "ActionMessage.cs",
               "DocumentMoniker": "C:\\Users\\fernanda\\AppData\\Local\\SourceServer\\5d94063053e88de73584ac9bb6a76fbc67c8fe65054cf6f9cf1a4e6d45546d87\\src\\Caliburn.Micro.Platform\\ActionMessage.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Users\\fernanda\\AppData\\Local\\SourceServer\\5d94063053e88de73584ac9bb6a76fbc67c8fe65054cf6f9cf1a4e6d45546d87\\src\\Caliburn.Micro.Platform\\ActionMessage.cs",
-              "ToolTip": "C:\\Users\\fernanda\\AppData\\Local\\SourceServer\\5d94063053e88de73584ac9bb6a76fbc67c8fe65054cf6f9cf1a4e6d45546d87\\src\\Caliburn.Micro.Platform\\ActionMessage.cs [Somente Leitura]",
-              "RelativeToolTip": "..\\..\\..\\Users\\fernanda\\AppData\\Local\\SourceServer\\5d94063053e88de73584ac9bb6a76fbc67c8fe65054cf6f9cf1a4e6d45546d87\\src\\Caliburn.Micro.Platform\\ActionMessage.cs [Somente Leitura]",
+              "ToolTip": "C:\\Users\\fernanda\\AppData\\Local\\SourceServer\\5d94063053e88de73584ac9bb6a76fbc67c8fe65054cf6f9cf1a4e6d45546d87\\src\\Caliburn.Micro.Platform\\ActionMessage.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\fernanda\\AppData\\Local\\SourceServer\\5d94063053e88de73584ac9bb6a76fbc67c8fe65054cf6f9cf1a4e6d45546d87\\src\\Caliburn.Micro.Platform\\ActionMessage.cs",
               "ViewState": "AQIAACQBAAAAAAAAAAArwDEBAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T19:55:41.548Z",
-              "EditorCaption": " [Somente Leitura]"
+              "WhenOpened": "2024-08-30T19:55:41.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 26,
               "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Negocio\\UsuarioService.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Negocio\\UsuarioService.cs",
               "RelativeDocumentMoniker": "PlannerDataBase\\Negocio\\UsuarioService.cs",
-              "ToolTip": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Negocio\\UsuarioService.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Negocio\\UsuarioService.cs",
               "RelativeToolTip": "PlannerDataBase\\Negocio\\UsuarioService.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T19:36:34.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T19:36:34.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Repositories\\UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Repositories\\UsuarioRepository.cs",
               "RelativeDocumentMoniker": "PlannerDataBase\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\worksapace\\visual studio\\MeuPlanner\\PlannerDataBase\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\workspace\\visual studio\\MeuPlanner\\PlannerDataBase\\Repositories\\UsuarioRepository.cs",
               "RelativeToolTip": "PlannerDataBase\\Repositories\\UsuarioRepository.cs",
               "ViewState": "AQIAAD4AAAAAAAAAAAAnwE4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T12:03:57.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T12:03:57.489Z"
             }
           ]
         }
